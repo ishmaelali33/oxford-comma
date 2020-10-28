@@ -1,4 +1,4 @@
-# A sample Gemfile
-source "https://rubygems.org"
-
-# gem "rails"
+oxford_comma = ["fiddleheads,okra,kohlrabi"]
+"fiddleheads,okra,kohlrabi".split(",")
+  end
+end 
